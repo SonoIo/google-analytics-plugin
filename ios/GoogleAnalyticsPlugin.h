@@ -34,5 +34,6 @@
 - (void) close: (CDVInvokedUrlCommand*)command;
 - (void) getAppOptOut: (CDVInvokedUrlCommand*)command;
 - (void) setAppOptOut: (CDVInvokedUrlCommand*)command;
+- (void) setIDFAEnabled: (CDVInvokedUrlCommand*)command;
 
 @end
